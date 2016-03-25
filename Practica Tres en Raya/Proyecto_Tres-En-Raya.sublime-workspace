@@ -1,0 +1,1607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gettime",
+				"getTime()	Date"
+			],
+			[
+				"getmilli",
+				"getMilliseconds()	Date"
+			],
+			[
+				"comprdesfs",
+				"comprobarDesafiosRechazados"
+			],
+			[
+				"faquestion",
+				"fa-question-circle	fa-question-circle"
+			],
+			[
+				"controller",
+				"controller	AngularJS"
+			],
+			[
+				"serv",
+				"service	AngularJS"
+			],
+			[
+				"desfiosenviad",
+				"desafiosEnviados"
+			],
+			[
+				"desafiosEnviados",
+				"desafiosEnviadosFactory"
+			],
+			[
+				"location",
+				"location"
+			],
+			[
+				"$window",
+				"$window	AngularJS"
+			],
+			[
+				"module",
+				"verbose_module	AngularJS"
+			],
+			[
+				"comprobar",
+				"comprobarDesafiosEntrantes"
+			],
+			[
+				"register",
+				"registermultitask	grunt.registerMultiTask"
+			],
+			[
+				"registertas",
+				"registertask	grunt.registerTask"
+			],
+			[
+				"when",
+				"when"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"miApp",
+				"miAppCtrl"
+			],
+			[
+				"angular",
+				"angular	AngularJS"
+			],
+			[
+				"preventde",
+				"preventDefault()	Event"
+			],
+			[
+				"append",
+				"append	.append()"
+			],
+			[
+				"contrasena",
+				"contrasenaConfirmar"
+			],
+			[
+				"contrase",
+				"contrasenaConfirmar"
+			],
+			[
+				"controlle",
+				"controller	AngularJS"
+			],
+			[
+				"angul",
+				"angular	AngularJS"
+			],
+			[
+				"compo",
+				"components/"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"img",
+				"image:responsive	responsive"
+			],
+			[
+				"import",
+				"@import	@import url(${0});"
+			],
+			[
+				"impo",
+				"@import	@import url(${0});"
+			],
+			[
+				"titulomenu",
+				"titulo-menu-style"
+			],
+			[
+				"defau",
+				"default-box-padding"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"cargardiv",
+				"cargarDivIndex"
+			],
+			[
+				"ALERT",
+				"alert(message)	Window"
+			],
+			[
+				"getUltimas",
+				"getUltimasNoticias	(noticiero.js)"
+			],
+			[
+				"buscartex",
+				"buscarTextoEnArticulo	(clase_articulo.php)"
+			],
+			[
+				"formatea",
+				"formateaFechaParaMySQL	(clase_fecha.php)"
+			],
+			[
+				"Number",
+				"Number.NaN	Number"
+			],
+			[
+				"fadeto",
+				"fadeto	.fadeTo()"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"popup",
+				"popupLibro	(index.html)"
+			],
+			[
+				"Descrip",
+				"Descrip_Tema"
+			],
+			[
+				"desc",
+				"descrip_tema	(clase_libro.php)"
+			],
+			[
+				"criter",
+				"criterioBuscar"
+			],
+			[
+				"descrip",
+				"descrip_tema"
+			],
+			[
+				"titulo",
+				"titulo_libro"
+			],
+			[
+				"popu",
+				"popupLibro	(index.html)"
+			],
+			[
+				"listty",
+				"list-style"
+			],
+			[
+				"liststyle",
+				"list-style"
+			],
+			[
+				"bib",
+				"biblio3"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"milis",
+				"milisDiffInicioFin"
+			],
+			[
+				"inputs",
+				"inputs	input - submit"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"famil",
+				"font-family"
+			],
+			[
+				"getelemen",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"ready",
+				"readyState	Document"
+			],
+			[
+				"post",
+				"postgresql-9.4-1202	(applet.html)"
+			],
+			[
+				"AppIm",
+				"AppImagenesBeans	(applet.html)"
+			],
+			[
+				"onkey",
+				"onkeypress	Attr"
+			],
+			[
+				"getelement",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"operacionM",
+				"operacionMemorySave"
+			],
+			[
+				"getele",
+				"getElementsByTagName(${0:name})	Element"
+			],
+			[
+				"awesome",
+				"awesomeThings"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"resultado",
+				"resultadoCalculos"
+			],
+			[
+				"evaluar",
+				"evaluarZonaCalculos"
+			],
+			[
+				"zona",
+				"zonaCalculos"
+			],
+			[
+				"resulta",
+				"resultadoCalculos"
+			],
+			[
+				"calculado",
+				"calculadoraClick"
+			],
+			[
+				"table",
+				"table-row"
+			],
+			[
+				"getEleme",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"content",
+				"fit-content"
+			],
+			[
+				"LISTstyel",
+				"list-style-type"
+			],
+			[
+				"script",
+				"script	<script>"
+			],
+			[
+				"calcula",
+				"calcularTotal"
+			],
+			[
+				"cerrar",
+				"cerrarVentana"
+			],
+			[
+				"frame",
+				"frame	Tag"
+			],
+			[
+				"frameset",
+				"frameset	Tag"
+			],
+			[
+				"opacity",
+				"style.opacity	Style CSS"
+			],
+			[
+				"style",
+				"style.display	Style CSS"
+			],
+			[
+				"geteleme",
+				"getElementById(${0:id})	Element"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "WebContent/css/less/index.less",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix",
+				"name": "index.less"
+			}
+		},
+		{
+			"file": "WebContent/index.jsp",
+			"settings":
+			{
+				"buffer_size": 3413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WebContent/css/less/main.less",
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LESS-build/LESS.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LESS-build/LESS.sublime-build",
+					""
+				],
+				[
+					"Packages/LESS-build/LESS.sublime-build",
+					"Minify"
+				]
+			],
+			[
+				"Packages/LESS-build/LESS.sublime-build",
+				"Minify"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 292.0,
+		"last_filter": "fabolt",
+		"selected_items":
+		[
+			[
+				"fabolt",
+				"Snippet: fa-bolt"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"inspak",
+				"Package Control: Install Package"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bs3fixedbo",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"alert",
+				"Snippet: bs3-alert-danger"
+			],
+			[
+				"fagamepad",
+				"Snippet: fa-gamepad"
+			],
+			[
+				"faarrowrig",
+				"Snippet: fa-arrow-right"
+			],
+			[
+				"fauser",
+				"Snippet: fa-user"
+			],
+			[
+				"faclock",
+				"Snippet: fa-clock-o"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fatrop",
+				"Snippet: fa-trophy"
+			],
+			[
+				"fatroph",
+				"Snippet: fa-trophy"
+			],
+			[
+				"rmpak",
+				"Package Control: Remove Package"
+			],
+			[
+				"rempack",
+				"Package Control: Remove Package"
+			],
+			[
+				"fagamepa",
+				"Snippet: fa-gamepad"
+			],
+			[
+				"fausers",
+				"Snippet: fa-users"
+			],
+			[
+				"fa-magic",
+				"Snippet: fa-magic"
+			],
+			[
+				"fashield",
+				"Snippet: fa-shield"
+			],
+			[
+				"bs3alertdange",
+				"Snippet: bs3-alert-danger"
+			],
+			[
+				"bs3paneldan",
+				"Snippet: bs3-panel-danger"
+			],
+			[
+				"bsalertsuccess",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"jsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"instpak",
+				"Package Control: Install Package"
+			],
+			[
+				"html ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"fathumbup",
+				"Snippet: fa-thumbs-o-up"
+			],
+			[
+				"faquestioncir",
+				"Snippet: fa-question-circle"
+			],
+			[
+				"fathumou",
+				"Snippet: fa-thumbs-o-up"
+			],
+			[
+				"fa-thumbs",
+				"Snippet: fa-thumbs-o-up"
+			],
+			[
+				"synhtmlang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"npmtask",
+				"Snippet: grunt.loadNpmTasks"
+			],
+			[
+				"grunt",
+				"Snippet: grunt.file.read"
+			],
+			[
+				"grun",
+				"Snippet: Grunt Wrapper"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"bs3navba",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"BS3NAV",
+				"Snippet: bs3-navbar-basic"
+			],
+			[
+				"angular",
+				"Snippet: Google AJAX Libraries: AngularJS"
+			],
+			[
+				"bs3html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"lispak",
+				"Package Control: List Packages"
+			],
+			[
+				"bs3panelhea",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"bs3panelhead",
+				"Snippet: bs3-panel-heading"
+			],
+			[
+				"bs3panel",
+				"Snippet: bs3-panel"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"lispa",
+				"Package Control: List Packages"
+			],
+			[
+				"bs3jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"synjsp",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"bs3aler",
+				"Snippet: bs3-alert-danger"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"bs3navbar",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"bs3nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"listpk",
+				"Package Control: List Packages"
+			],
+			[
+				"pkgins",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3row",
+				"Snippet: bs3-row-col"
+			],
+			[
+				"html5",
+				"Snippet: html5"
+			],
+			[
+				"inspk",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"media",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"bs3navbottom",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"bs3modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"SYNHTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"rempak",
+				"Package Control: Remove Package"
+			],
+			[
+				"bs3navbafixedtop",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"glyph",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"bs3-fo",
+				"Snippet: bs3-form"
+			],
+			[
+				"npm: list",
+				"npm: List Installed Packages, Deep"
+			],
+			[
+				"npm:list",
+				"npm: List Installed Packages"
+			],
+			[
+				"npm:",
+				"npm: Search Packages"
+			],
+			[
+				"npm",
+				"npm: List Installed Packages"
+			],
+			[
+				"npmlist",
+				"npm: List Installed Packages"
+			],
+			[
+				"nnpm",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"synless",
+				"Set Syntax: LESS"
+			],
+			[
+				"bs3-navb",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"synjava",
+				"Set Syntax: Java"
+			],
+			[
+				"synsass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pkginstal",
+				"Package Control: Install Package"
+			],
+			[
+				"inspkg",
+				"Package Control: Install Package"
+			],
+			[
+				"bshtml",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3-button",
+				"Snippet: bs3-button-warning"
+			],
+			[
+				"bs3-btn",
+				"Snippet: bs3-button-default"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"bs3-",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"removpac",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"removpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"syncs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntacss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Rot13 Selection"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular"
+	],
+	"file_history":
+	[
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/Base de Datos/crear.estructura.sql",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/Base de Datos/crear.indices.sql",
+		"/home/usuario/Dropbox/2DAW/dwes/Entregas/Febrero/Practica Tres en Raya/v/WEB-INF/web.xml",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/generales.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/datos-olvidados.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/layout/footer.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/olvido.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/desafios.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/perfil.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/partidas.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/partida.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/ver-perfil.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/scripts.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/login.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/global.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/main.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/registro.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/layout/header.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/usuarios.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/layout/barra-lateral.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/salas.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/index.jsp",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/sidebar.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/perfil.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/src/controladores/servlets/ProcesarPartidas.java",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/app.js",
+		"/tmp/1.MF",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/dashboard.less",
+		"/var/www/dwec/diw/clase/angular/ejercicio.factorias.html",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/app.j",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/activacion.jsp",
+		"/home/usuario/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/src/modelos/Usuario.java",
+		"/home/usuario/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/partida.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/js/angular/usuarios-conectados.js",
+		"/home/usuario/nodejs/grunt/bundle.js",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/mixins.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/less/main.min.css",
+		"/var/www/dwec/diw/clase/angular/datos/cervezas.json",
+		"/var/www/dwec/diw/clase/angular/ejercicio.route.contacto.html",
+		"/var/www/dwec/diw/clase/angular/ejercicio.route.home.html",
+		"/var/www/dwec/diw/clase/angular/ejercicio.route.colores.html",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/Proyecto_Tres-En-Raya.sublime-workspace",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/index.html",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/footer.less",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/medias.less",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/main.less",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/portada.less",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/mixins.less",
+		"/home/usuario/Dropbox/2DAW/Proyecto/www/app/css/less/variables.less",
+		"/var/www/dwec/diw/foro/css/less/variables.less",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/css/flags.css",
+		"/home/usuario/Dropbox/2DAW/workspace/java/Practica Tres en Raya/WebContent/_layout.jsp",
+		"/home/usuario/Dropbox/2DAW/dwec/angularjs/ejemplos/app/ejemplo2.repeat.html",
+		"/home/usuario/http",
+		"/home/usuario/nodejs/angular1/app/menu.html",
+		"/home/usuario/Dropbox/2DAW/dwec/angularjs/ejemplos/app/ejemplo1.simple.html",
+		"/home/usuario/Dropbox/2DAW/dwec/angularjs/ejemplos/app/_layout.html",
+		"/var/www/dwec/diw/foro/css/less/mixins.less",
+		"/var/www/dwec/diw/foro/css/less/perfil.less",
+		"/var/www/dwec/diw/foro/css/less/amigos.less",
+		"/var/www/dwec/diw/foro/amigos.html",
+		"/var/www/dwec/diw/foro/css/cabecera.less",
+		"/var/www/dwec/diw/foro/css/main.less",
+		"/var/www/dwec/diw/foro/css/index.less",
+		"/var/www/dwec/diw/foro/index.html",
+		"/var/www/dwec/diw/foro/muro.html",
+		"/var/www/dwec/diw/foro/perfil.html",
+		"/var/www/dwec/diw/foro/css/mixins.less",
+		"/var/www/dwec/diw/foro/css/media.less",
+		"/var/www/dwec/diw/foro/css/perfil.less",
+		"/var/www/dwec/diw/foro/css/amigos.less",
+		"/var/www/dwec/diw/foro/js/bootstrap.js",
+		"/var/www/dwec/diw/foro/css/layout.less",
+		"/var/www/dwec/diw/foro/css/footer.less",
+		"/var/www/dwec/diw/foro/css/common.less",
+		"/var/www/dwec/diw/foro/css/font-awesome.min.css",
+		"/var/www/dwec/diw/foro/css/index-menu-lateral.less",
+		"/home/usuario/nodejs/prueba-frontend/bundle.js",
+		"/var/www/dwec/diw/clase/pratt/index.html",
+		"/var/www/dwec/diw/clase/pratt/index.js",
+		"/home/usuario/nodejs/prueba-frontend/index.js",
+		"/var/www/dwec/diw/foro/ejemplo.html",
+		"/home/usuario/nodejs/prueba-frontend/index.html",
+		"/home/usuario/nodejs/prueba-frontend/prueba-estilo.css",
+		"/home/usuario/nodejs/prueba-frontend/bundle.css",
+		"/home/usuario/nodejs/prueba-frontend/misestilos.css",
+		"/var/www/dwec/bootFileinput/php/subirnuevolibro.php",
+		"/var/www/dwec/bootFileinput/index.html",
+		"/var/www/dwec/ejemplo-fileinput/js/fileinput_locale_es.js",
+		"/var/www/dwec/diw/foro/css/variables.less",
+		"/var/www/dwec/diw/foro/css/estilos.min.css",
+		"/var/www/dwec/diw/foro/css/estilos.css",
+		"/var/www/noticiero/php/consultas.php",
+		"/var/www/noticiero/js/noticiero.js",
+		"/home/usuario/sass/prueba.scss",
+		"/var/www/dwec/diw/ejemplo/contacto.html",
+		"/var/www/diw/less/a.less",
+		"/var/www/diw/less/a.min.css",
+		"/var/www/dwec/diw/ejemplo/quienes-somos.html",
+		"/var/www/dwec/diw/ejemplo/index.html",
+		"/var/www/dwec/diw/ejemplo/css/bootstrap.min.css",
+		"/home/usuario/bootstrap-ejemplo.html",
+		"/var/www/noticiero/mantenimientos/portada/clases/clase_portada.php",
+		"/var/www/noticiero/mantenimientos/articulo/clases/clase_articulo.php",
+		"/var/www/noticiero/mantenimientos/pagina/clases/clase_pagina.php",
+		"/var/www/noticiero/includes/cabecera.html",
+		"/var/www/noticiero/contacto.php",
+		"/var/www/noticiero/mantenimientos/pagina/includes/cabecera.html",
+		"/var/www/noticiero/prueba/ejemplo.html",
+		"/var/www/noticiero/prueba/ejemplo.php",
+		"/var/www/noticiero/mantenimientos/periodistas/clases/clase_periodista.php",
+		"/var/www/dwec/calculo-fechas/css/estilo.css",
+		"/var/www/dwec/calculo-fechas/js/calculo-horas.js",
+		"/var/www/dwec/calculo-fechas/php/consultas.php",
+		"/var/www/dwec/calculo-fechas/mantenimientos/fecha/clases/clase_fecha.php",
+		"/var/www/dwec/calculo-fechas/index.html",
+		"/home/usuario/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/dwec/calculo-fechas/js/jquery-1.11.3.min.js",
+		"/var/www/noticiero/mantenimientos/datos/clase/clase_dato.php",
+		"/var/www/noticiero/index.php",
+		"/var/www/noticiero/mantenimientos/clases/c_login.php",
+		"/var/www/noticiero/includes/lateral.html",
+		"/var/www/noticiero/mantenimientos/clases/c_conexion.php",
+		"/var/www/diw/ejemplo1.html",
+		"/home/usuario/Dropbox/2DAW/dwec/entregas/noviembre/GonzalezJaenJesus_Calculo-Horas-Entre-Fechas/js/calculo-horas.js",
+		"/var/www/noticiero/datos/bases.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Activar",
+			"activar",
+			"form",
+			"alert alert-",
+			"danger",
+			"alert alert-",
+			"p",
+			"getMilliseconds()",
+			"59000",
+			"$location",
+			"inicializarMovimientos",
+			".estado",
+			"$scope.estado",
+			"TODO",
+			"desafiante",
+			"<hr>",
+			"console.log",
+			"2567",
+			"correo",
+			"show",
+			"if",
+			"type=\"",
+			"type=\"nueva",
+			"type=\"",
+			"ng-init=",
+			"usuario.",
+			"ng-value=",
+			"value=\"",
+			"value",
+			"app",
+			"antiguaContrasena",
+			"1234",
+			"ir",
+			".length",
+			"16543",
+			"lenth",
+			"desafios",
+			"ng-class=\"",
+			"h1",
+			"h2",
+			"p class=\"titulo-desafio\"",
+			"div ng-show",
+			"p.",
+			"p",
+			"<p class=\"titulo-caja-desafio\"",
+			"\" ng-show=\"desafios",
+			"ng-show=\"desafios",
+			"span",
+			"</p>",
+			"p ng-repeat=\"desafio",
+			"<span class=\"titulo-caja-desafio\"",
+			"item text-center",
+			"desafiosEnviados()",
+			"desafiosEnviados",
+			"desafiosEnviados()",
+			"desafiosenviados",
+			"console.log",
+			"desafiosfactory",
+			"h1",
+			".getDate()",
+			"</option>",
+			"input",
+			"ctrl+shift+k",
+			"line",
+			"conexion",
+			"nueva-contrasena",
+			"\n\n					<div class=\"form-group\">\n						<label for=\"nueva-contrasena\">Nueva Contraseña</label>\n						<input type=\"nueva-contrasena\" name=\"nueva-contrasena\" ng-model=\"usuario.nuevaContrasena\" placeholder=\"Nueva contraseña\">\n					</div>",
+			"nombre",
+			".equalsIgnoreCase('",
+			"value=\"",
+			"=\"nombre\"",
+			"<%=",
+			"class=\"",
+			"<h",
+			" class=\"fa fa-5x fa-",
+			"tablero[",
+			" > 0",
+			"tablero[",
+			",",
+			"tablero[]",
+			",",
+			"tablero[]",
+			",",
+			"tablero[][]",
+			"es': tablero[]",
+			",",
+			"checkMovVisitante(",
+			"checkMovVisitante(1)",
+			"checkMovLocal",
+			"\"",
+			"span",
+			"desafio.partida.id",
+			"$scope.desafios",
+			"entrantes",
+			"$scope.desafiosRechazados",
+			"$scope.desafiosEntrantes",
+			"$scope.desafios",
+			"class=\"pull-",
+			"visitante:",
+			"local:",
+			"checkMovLocal(",
+			"class=\"casilla\"",
+			"id=\"fila-casilla\"",
+			"marcar(",
+			"class=\"",
+			",",
+			"id=\"tablero\"",
+			"response",
+			"class=\"caja",
+			"<a href=",
+			"\n	.caja.caja-lateral\n	{\n		\n	}",
+			"div",
+			"aside",
+			"data",
+			"span",
+			"$usuario",
+			"caja-footer",
+			"</h3>",
+			"nombre",
+			"$nombre",
+			"$usuario",
+			"div class=\"panel-body\"",
+			"<div class=\"panel-body",
+			"<div class=\"",
+			"<div class=\"alert",
+			"</i>",
+			"div class",
+			"id=\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "WebContent/css/less/index.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.less",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "WebContent/index.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3057,
+								3057
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "WebContent/css/less/main.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 76.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.textarea":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/LESS-build/LESS.sublime-build",
+	"project": "Proyecto_Tres-En-Raya.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indexjsp",
+				"WebContent/index.jsp"
+			],
+			[
+				"footerjsp",
+				"WebContent/layout/footer.jsp"
+			],
+			[
+				"datos",
+				"WebContent/datos-olvidados.jsp"
+			],
+			[
+				"mainles",
+				"WebContent/css/less/main.less"
+			],
+			[
+				"footer",
+				"WebContent/layout/footer.jsp"
+			],
+			[
+				"login",
+				"WebContent/login.jsp"
+			],
+			[
+				"registr",
+				"WebContent/registro.jsp"
+			],
+			[
+				"verperfi",
+				"WebContent/ver-perfil.jsp"
+			],
+			[
+				"partidajsp",
+				"WebContent/partida.jsp"
+			],
+			[
+				"partidajs",
+				"WebContent/js/angular/partidas.js"
+			],
+			[
+				"perfiljs",
+				"WebContent/perfil.jsp"
+			],
+			[
+				"usuarios",
+				"WebContent/js/angular/usuarios.js"
+			],
+			[
+				"artidajs",
+				"WebContent/partida.jsp"
+			],
+			[
+				"headerjsp",
+				"WebContent/layout/header.jsp"
+			],
+			[
+				"partidas",
+				"WebContent/js/angular/partidas.js"
+			],
+			[
+				"barrlater",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"header",
+				"WebContent/layout/header.jsp"
+			],
+			[
+				"perfiljsp",
+				"WebContent/perfil.jsp"
+			],
+			[
+				"partida",
+				"WebContent/partida.jsp"
+			],
+			[
+				"main",
+				"WebContent/css/less/main.less"
+			],
+			[
+				"sidebar",
+				"WebContent/css/less/sidebar.less"
+			],
+			[
+				"barralateral",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"salss",
+				"WebContent/js/angular/salas.js"
+			],
+			[
+				"perfil.js",
+				"WebContent/js/angular/perfil.js"
+			],
+			[
+				"index",
+				"WebContent/index.jsp"
+			],
+			[
+				"barralater",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"usuariosjs",
+				"WebContent/js/angular/usuarios.js"
+			],
+			[
+				"partida.jsp",
+				"WebContent/partida.jsp"
+			],
+			[
+				"partidas.js",
+				"WebContent/js/angular/partidas.js"
+			],
+			[
+				"desafiosjs",
+				"WebContent/js/angular/desafios.js"
+			],
+			[
+				"sala",
+				"WebContent/js/angular/salas.js"
+			],
+			[
+				"desafios.js",
+				"WebContent/js/angular/desafios.js"
+			],
+			[
+				"desafios",
+				"WebContent/js/angular/desafios.js"
+			],
+			[
+				"sals",
+				"WebContent/js/angular/salas.js"
+			],
+			[
+				"perfil",
+				"WebContent/perfil.jsp"
+			],
+			[
+				"procesarpar",
+				"src/controladores/servlets/ProcesarPartidas.java"
+			],
+			[
+				"partida.js",
+				"WebContent/js/angular/partidas.js"
+			],
+			[
+				"usuariojs",
+				"WebContent/js/angular/usuarios.js"
+			],
+			[
+				"mainless",
+				"WebContent/css/less/main.less"
+			],
+			[
+				"sidebless",
+				"WebContent/css/less/sidebar.less"
+			],
+			[
+				"activacjsp",
+				"WebContent/activacion.jsp"
+			],
+			[
+				"usuario.ja",
+				"src/modelos/Usuario.java"
+			],
+			[
+				"registro",
+				"WebContent/registro.jsp"
+			],
+			[
+				"la",
+				"WebContent/_layout.jsp"
+			],
+			[
+				"barrlatera",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"partidaless",
+				"WebContent/css/less/partida.less"
+			],
+			[
+				"angular-",
+				"WebContent/js/angular/usuarios-conectados.js"
+			],
+			[
+				"less",
+				"WebContent/css/less/sidebar.less"
+			],
+			[
+				"barralate",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"script",
+				"WebContent/js/scripts.js"
+			],
+			[
+				"barrala",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"barralatera",
+				"WebContent/layout/barra-lateral.jsp"
+			],
+			[
+				"portada",
+				"app/css/less/portada.less"
+			],
+			[
+				"scripts",
+				"WebContent/js/scripts.js"
+			],
+			[
+				"login.jsp",
+				"WebContent/login.jsp"
+			],
+			[
+				"registrojsp",
+				"WebContent/registro.jsp"
+			],
+			[
+				"index.jsp",
+				"WebContent/index.jsp"
+			],
+			[
+				"ejemplo1",
+				"app/ejemplo1.simple.html"
+			],
+			[
+				"amigos",
+				"amigos.html"
+			],
+			[
+				"ejemp",
+				"ejemplo.html"
+			],
+			[
+				"ejem",
+				"ejemplo.html"
+			],
+			[
+				"commo",
+				"css/common.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/2DAW/Proyecto/Proyecto_Final.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

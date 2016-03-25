@@ -1,0 +1,73 @@
+div.caja-juego
+{
+	margin-top: 3em;
+	margin-bottom: 3em;
+}
+
+div#tablero-juego
+{
+	display: table;
+	margin: 1em auto;
+
+	ul
+	{
+		list-style: none;
+		
+		display: table;
+
+		padding: 0;
+		margin: 0;
+
+		border-top: 1px solid black;
+
+		li
+		{
+			cursor: pointer;
+			
+			display: table-cell;
+			width: 96px;
+			height: 96px;
+
+			border-left: 1px solid black;
+
+			text-align: center;
+			vertical-align: middle;
+		}
+
+		li:last-child
+		{
+			border-right: 1px solid black;
+		}
+	}
+
+	ul:last-child
+	{
+		border-bottom: 1px solid black;
+	}
+
+	ul:nth-child(odd)
+	{
+		li:nth-child(odd)
+		{
+			background: #fff;
+		}
+
+		li:nth-child(even)
+		{
+			background-color: #eee;
+		}
+	}
+
+	ul:nth-child(even)
+	{
+		li:nth-child(odd)
+		{
+			background-color: #eee;
+		}
+
+		li:nth-child(even)
+		{
+			background-color: #fff;
+		}
+	}
+}

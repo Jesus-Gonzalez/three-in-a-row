@@ -1,0 +1,27 @@
+{
+  "name": "Practica Tres en Raya",
+  "authors": [
+    "Jesús González <dev@jesusd.net>"
+  ],
+  "description": "Aplicación web Juego Tres en Raya",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "java",
+    "servidores",
+    "dwes",
+    "practica",
+    "febrero",
+    "2016"
+  ],
+  "license": "Free Education Oriented Software",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

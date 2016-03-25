@@ -1,0 +1,36 @@
+aside#sidebar
+{
+	.caja.caja-lateral
+	{
+		margin-top: 1.5em;
+
+		ul#lista-usuarios
+		{
+			list-style: none;
+			padding: 0;
+
+			li.lista-usuarios-item
+			{
+				.link-usuario
+				{
+					padding-left: 0.5em;
+				}
+
+				div.lista-usuarios-acciones
+				{
+					display: none;
+				}
+
+				&:hover div.lista-usuarios-acciones
+				{
+					display: block;
+					
+					margin-top: 0.75em;
+					padding-bottom: 1em;
+
+					border-bottom: 1px dotted #999;
+				}
+			}
+		}
+	}
+}

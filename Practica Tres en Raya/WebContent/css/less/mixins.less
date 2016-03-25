@@ -1,0 +1,26 @@
+
+.border-radius(@tl, @tr, @br, @bl)
+{
+	-webkit-border-radius: @tl @tr @br @bl;
+	-moz-border-radius: @tl @tr @br @bl;
+	-ms-border-radius: @tl @tr @br @bl;
+	border-radius: @tl @tr @br @bl;
+}
+
+.box-shadow(@x: 0, @y: 0, @blur: 23px, @spread: 2px, @color: rgba(0,0,0,0.6))
+{
+	-webkit-box-shadow: @x @y @blur @spread @color;
+	-moz-box-shadow: @x @y @blur @spread @color;
+	box-shadow: @x @y @blur @spread @color;
+}
+
+.caja(@border-radius: 5px, @border-style: 1px solid black, @background: rgba(255,255,255,0.5))
+{
+	display: inline-block;
+	padding: 2em;
+
+	border: @border-style;
+	.border-radius(@border-radius, @border-radius, @border-radius, @border-radius);
+
+	background-color: @background;
+}
